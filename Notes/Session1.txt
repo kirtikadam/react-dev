@@ -1,0 +1,32 @@
+1. What is emmet?
+A. Emmet is a plugin for many popular text editors which greatly improves HTML & CSS workflow:
+
+2. The Difference Between a Framework and a Library?
+A. https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/
+   Summary:
+   1. Frameworks and libraries are both code written by someone else that helps you perform some common tasks in a less verbose way.
+   2. A framework inverts the control of the program. It tells the developer what they need. A library doesn’t. The programmer calls the library where and when they need it.
+   3. The degree of freedom a library or framework gives the developer will dictate how “opinionated” it is.
+
+   eg: Angular, Vue - Frameworks, React - Library
+
+3. What is CDN? Why do we use it?
+A. https://www.imperva.com/learn/performance/what-is-cdn-how-it-works/
+   Content delivery networks. a CDN stores a cached version of its content in multiple geographical locations (a.k.a., points of presence, or PoPs). Each PoP contains a number of caching servers responsible for content delivery to visitors within its proximity.
+
+4. Why is React known as React?
+A. 
+
+5. What is crossorigin in script tag?
+A. The crossorigin attribute sets the mode of the request to an HTTP CORS Request. Web pages often make requests to load resources on other servers. Here is where CORS comes in. A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+
+6. what is difference between react and reactdom?
+A. https://medium.com/programming-sage/react-vs-react-dom-a0ed3aea9745
+   React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser
+
+7. What is difference between react.development.js and react.production.js files via CDN?
+A. https://reactjs.org/docs/cdn-links.html
+   production - Minified and optimized
+
+8. What is async and defer?
+A. https://www.youtube.com/watch?v=IrHmpdORLu8
